@@ -1,38 +1,30 @@
 <div align="center">
 
-# Hi there, I'm Afsal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Afsal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+AI-Powered+Applications;Passionate+about+UI%2FUX+Design)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+AI-Powered+Applications+%F0%9F%A4%96;Passionate+about+UI%2FUX+Design+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```
-[ afsal@dev ]─[ ~ ]
-$ whoami --verbose
-```
+## ■ About Me
 
-```
-UID         →  Afsal
-LOCATION    →  Kerala, India
-ROLE        →  Full Stack Developer
-FOCUS       →  Web Applications · AI Integration · UI/UX
-PRINCIPLE   →  "Clean code, great user experiences."
-STATUS      →  [ ONLINE ]
+I'm a passionate *Full Stack Developer* focused on building modern, scalable web applications with clean code and great user experiences. I enjoy bridging the gap between design and functionality, and I'm currently diving deep into *AI-powered applications*.
 
-LANGUAGES   →  JavaScript · HTML · CSS
-FRAMEWORKS  →  React.js · Node.js · Express.js
-DATABASE    →  MongoDB · Mongoose
-TOOLS       →  Git · GitHub · VS Code · JWT · Framer Motion
-OPEN FOR    →  Collaboration · Freelance · Open Source
-```
+- ◉ Currently working on a *Hospital Management Application, **Travel Package Management Website, and my **Portfolio*
+- ◉ Learning advanced full-stack patterns and *AI/ML integrations*
+- ◉ Passionate about *UI/UX Design* and crafting pixel-perfect interfaces
+- ◉ Always exploring new technologies and open to collaboration
+- ◉ Reach me at: **afsallll005@gmail.com*
 
 ---
 
-## [ TECH STACK ]
+## ■ Tech Stack
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,18 +33,18 @@ OPEN FOR    →  Collaboration · Freelance · Open Source
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-**Database**
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -60,51 +52,34 @@ OPEN FOR    →  Collaboration · Freelance · Open Source
 
 ---
 
-## [ ABOUT ]
+## ■ Current Projects
 
-I'm a **Full Stack Developer** focused on building modern, scalable web applications with clean code and great user experiences. I bridge the gap between design and functionality, and I'm currently diving deep into **AI-powered applications**.
-
-- Currently working on a **Hospital Management Application**, **Travel Package Management Website**, and my **Portfolio**
-- Learning advanced full-stack patterns and **AI/ML integrations**
-- Passionate about **UI/UX Design** and crafting pixel-perfect interfaces
-- Always exploring new technologies and open to collaboration
-- Reach me at: **afsallll005@gmail.com**
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+|  *Hospital Management Application* | Complete hospital management system with patient records, appointments, doctor management, and admin dashboard | React, Node.js, Express.js, MongoDB |
+|  *Travel Package Management Website* | Travel booking platform for managing tour packages, destinations, bookings, and customer inquiries | React, Node.js, Express.js, MongoDB |
+|  *Portfolio Website* | Personal portfolio showcasing my projects, skills, and professional journey | React, Framer Motion, CSS3 |
 
 ---
 
-## [ CURRENT PROJECTS ]
-
-```
-[ afsal@dev ]─[ ~/projects ]
-$ ls -la --details
-```
-
-| Project | Description | Stack |
-|---|---|---|
-| **Hospital Management App** | Complete hospital system — patient records, appointments, doctor management, admin dashboard | React · Node.js · Express.js · MongoDB |
-| **Travel Package Management** | Travel booking platform for packages, destinations, bookings, and customer inquiries | React · Node.js · Express.js · MongoDB |
-| **Portfolio Website** | Personal portfolio showcasing projects, skills, and professional journey | React · Framer Motion · CSS3 |
-
----
-
-## [ GITHUB STATS ]
+## ■ GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afsallll005-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsallll005-cloud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afsallll005-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsallll005-cloud&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=afsallll005-cloud&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=afsallll005-cloud&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## [ CONNECT ]
+## ■ Connect With Me
 
 <div align="center">
 
@@ -118,11 +93,8 @@ $ ls -la --details
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=afsallll005-cloud&color=00FFB3&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=afsallll005-cloud&color=6366f1&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=100&section=footer" />
 
 </div>
-
-```
-[ afsal@dev ]─[ ~ ]
-$ exit
-```

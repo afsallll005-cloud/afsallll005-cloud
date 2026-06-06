@@ -14,7 +14,7 @@
 
 I'm a passionate *Full Stack Developer* focused on building modern, scalable web applications with clean code and great user experiences. I enjoy bridging the gap between design and functionality, and I'm currently diving deep into *AI-powered applications*.
 
--  Currently working on a *Hospital Management Application, **Travel Package Management Website.
+-  Currently working on a  *Hospital Management Application, **Travel Package Management Website, and my **Portfolio*
 -  Learning advanced full-stack patterns and *AI/ML integrations*
 -  Passionate about *UI/UX Design* and crafting pixel-perfect interfaces
 -  Always exploring new technologies and open to collaboration

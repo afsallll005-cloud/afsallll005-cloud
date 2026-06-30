@@ -214,19 +214,13 @@ I'm a passionate *Full Stack Developer* focused on building modern, scalable web
 
 
 
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
-
-|----------|-------------|------------|
-
-|  *Hospital Management Application* | Complete hospital management system with patient records, appointments, doctor management, and admin dashboard | React, Node.js, Express.js, MongoDB |
-
-|  *Travel Package Management Website* | Travel booking platform for managing tour packages, destinations, bookings, and customer inquiries | React, Node.js, Express.js, MongoDB |
-
-|  *Portfolio Website* | Personal portfolio showcasing my projects, skills, and professional journey | React, Framer Motion, CSS3 |
-
-
-
----
+| :------ | :---------- | :--------- |
+| 🏥 **Hospital Management System** | A full-stack hospital management system featuring patient records, doctor management, appointment scheduling, authentication, and an admin dashboard. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🌍 **Travel Package Management** | A travel booking platform for managing destinations, tour packages, bookings, customer inquiries, and user authentication. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🌐 **Portfolio Website** | A responsive portfolio website showcasing projects, technical skills, animations, and professional experience. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 
 
